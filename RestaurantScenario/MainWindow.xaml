@@ -1,0 +1,8 @@
+﻿<Window x:Class="RestaurantScenario.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Object-Oriented Programming 1: Restaurant" Height="330" Width="440">
+    <Grid>
+        <Button x:Name="newRestaurantButton" Content="New restaurant" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="200" Click="newRestaurantButton_Click"/>
+    </Grid>
+</Window>
